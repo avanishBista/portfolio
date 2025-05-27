@@ -106,7 +106,7 @@ body::before {
     text-align: center;
     z-index: 1;
     position: relative;
-    margin-right: 100px;
+    margin: 100px;
 }
 
 .cyber-glitch {
